@@ -1,0 +1,82 @@
+/* Universal Settings */
+
+body {
+    margin: auto;
+    padding: 0px;
+    background-color: rgb(255, 235, 212);
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Main Page */
+
+.main-container {
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+.content-container {
+    display: flex;
+    width: 1000px;
+    align-items: center;
+    flex-direction: column;
+}
+
+.content-container-2 {
+    display: flex;
+    width: 1000px;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(247, 195, 153);
+}
+
+.top-img {
+   height: auto; 
+   width: 100%;
+}
+
+.title-1 {
+    background-color: rgb(230, 157, 98);
+    color: rgb(255, 255, 255);
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px; 
+    margin: 0;
+    margin-top: 30p;           
+}
+
+.fam-info {
+    margin-top: 70px;
+    margin-bottom: 50px;
+    color: black;
+    text-align: center;
+}
+
+.link-title {
+    font-size: 21px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.down-arrow {
+    height: auto;
+    width: 35px;
+}
+
+.list-1 {
+    list-style: none;
+    padding: 0px;
+    margin-bottom: 50px;
+}
+
+.links {
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* Lasagna Recipe Page */
+
